@@ -1,0 +1,27 @@
+# React specific
+node_modules/
+build/
+dist/
+.env
+npm-debug.log
+yarn-error.log
+
+# Python specific
+__pycache__/
+*.py[cod]
+venv/
+env/
+ENV/
+*.egg-info/
+.Python
+db.sqlite3
+instance/
+.venv/
+
+# IDE specific
+.vscode/
+.idea/
+.DS_Store
+
+# Other
+*.log
